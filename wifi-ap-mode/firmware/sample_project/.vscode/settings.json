@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "esp_event.h": "c",
+    "esp_wifi.h": "c",
+    "protocol_examples_common.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32"
+}
